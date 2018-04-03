@@ -7,9 +7,8 @@
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/web/WEB-INF/applicationContext.xml</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/src/java/com/sulabh/sulabhbankapp/model/Account.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/src/java/com/sulabh/sulabhbankapp/dao/AccountDAOImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/src/java/com/sulabh/sulabhbankapp/dao/AccountDAO.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/web/WEB-INF/dispatcher-servlet.xml</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/src/java/com/sulabh/sulabhbankapp/service/AccountServiceImpl.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/SulabhBankApp/src/java/hibernate.cfg.xml</file>
         </group>
     </open-files>
 </project-private>
